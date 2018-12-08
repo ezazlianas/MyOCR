@@ -1,0 +1,2 @@
+# MyOCR
+text recognition
